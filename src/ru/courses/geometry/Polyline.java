@@ -1,5 +1,5 @@
 package ru.courses.geometry;
-import ru.courses.*;
+import ru.courses.main.Start;
 
 import java.util.ArrayList;
 import java.util.Arrays;

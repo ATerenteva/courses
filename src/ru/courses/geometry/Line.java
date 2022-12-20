@@ -1,5 +1,5 @@
 package ru.courses.geometry;
-import ru.courses.*;
+import ru.courses.main.Start;
 
 public class Line implements Start.Lenghtable {
     Point pointBegin;

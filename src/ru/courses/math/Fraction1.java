@@ -1,6 +1,6 @@
 package ru.courses.math;
 
-import ru.courses.Start;
+import ru.courses.main.Start;
 
 class Fraction1 extends Number implements Start.Fractable{
     int num,denum;
